@@ -1,12 +1,13 @@
 ### Hello!
 
-I’m a 3rd-year undergraduate computer science and mathematics (statistics) student at the [University of Queensland](https://www.uq.edu.au/). I work as a casual software developer, as well as a maths tutor/teaching assistant. In addition, I am currently the secretary of the [UQ Computing Society](https://uqcs.org/), and industry liaison of the [Mathematics Students Society, UQ](https://www.facebook.com/uqmss/).
+Hi there! I’m a 4th-year undergraduate computer science and mathematics (major in statistics) student at the [University of Queensland](https://www.uq.edu.au/). I work as a casual software developer at [Atlassian](https://www.atlassian.com/), as well as a maths tutor/teaching assistant in the [School of Mathematics and Physics](https://smp.uq.edu.au/), and a research assistant in the [Transcription Acceleration Project](https://www.itee.uq.edu.au/research/projects/tap) at the ARC Centre of Excellence for the Dynamics of Language ([CoEDL](https://www.dynamicsoflanguage.edu.au/)). In addition, I’m currently president of the [Mathematics Students Society, UQ](https://www.facebook.com/uqmss/), and a member of the executive committee (formerly secretary) of the [UQ Computing Society](https://uqcs.org/).
 
-I have very broad interests from many different areas of mathematics, statistics, computer science, and elsewhere. My current interests include:
+Currently, I’m interested in:
 
 - machine learning, especially its statistical aspects;
-- front-end web development;
-- algorithms and theoretical computer science;
+- algorithms and competitive programming;
+- full-stack web development;
+- pure mathematics;
 - graphic design and typography.
 
-You can find more info about me, including my blog, at my personal website, [matthewlow.dev](https://matthewlow.dev).
+You can find more info about me, including my blog, at my personal website, [mlow.dev](https://mlow.dev).
