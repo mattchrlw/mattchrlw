@@ -1,3 +1,3 @@
 ### Hello!
 
-Check out [https://mattlow.net](mattlow.net) for more info.
+Check out [mattlow.net](https://mattlow.net) for more info.
